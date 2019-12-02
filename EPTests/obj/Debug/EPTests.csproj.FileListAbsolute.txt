@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\EPTests.dll
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\EPTests.pdb
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\EP.exe
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\EP.pdb
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\EP.exe.config
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\obj\Debug\EPTests.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\obj\Debug\EPTests.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\obj\Debug\EPTests.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\obj\Debug\EPTests.dll
+C:\Users\Rodrigo\Desktop\ExQuebraCabeça 2.0\EPTests\obj\Debug\EPTests.pdb
